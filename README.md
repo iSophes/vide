@@ -4,6 +4,8 @@
     <img src="docs/public/full_logo.svg" width="600" />
 </div>
 
+# This is a fork of Vide to support newer roblox UI instances.
+
 Vide is a reactive Luau UI library inspired by [Solid](https://www.solidjs.com/).
 
 - Fully Luau typecheckable

@@ -1,8 +1,8 @@
 [package]
-name = "centau/vide"
+name = "isophes/vide"
 description = "A reactive Luau library for creating UI. "
 license = "MIT"
-version = "0.4.1"
+version = "0.0.1"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 include = ["default.project.json", "LICENSE", "src"]
