@@ -1,6 +1,6 @@
 [package]
 name = "isophes/vide"
-description = "A reactive Luau library for creating UI. "
+description = "A reactive Luau library for creating UI. Forked with newer roblox UI instances until Vide accepts PR 79"
 license = "MIT"
 version = "0.0.1"
 registry = "https://github.com/UpliftGames/wally-index"
