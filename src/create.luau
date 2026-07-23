@@ -71,6 +71,7 @@ type Instances = {
     UIGridLayout: UIGridLayout,
     UIListLayout: UIListLayout,
     UIStroke: UIStroke,
+    UIScale: UIScale,
     UIShadow: UIShadow,
     UIPadding: UIPadding,
     UICorner: UICorner,

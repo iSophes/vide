@@ -1,7 +1,7 @@
 name = "isophes/vide"
 version = "0.0.1"
-description = "A reactive Luau library for creating UI."
-authors = ["centau"]
+description = "A reactive Luau library for creating UI. Forked with newer roblox UI instances until Vide accepts PR 79"
+authors = ["centau", "isophes"]
 repository = "https://github.com/centau/vide"
 license = "MIT"
 includes = ["src/*", "README.md", "pesde.toml"]
